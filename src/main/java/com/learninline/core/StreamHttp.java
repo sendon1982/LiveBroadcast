@@ -4,7 +4,7 @@ import uk.co.caprica.vlcj.player.MediaPlayerFactory;
 import uk.co.caprica.vlcj.player.headless.HeadlessMediaPlayer;
 
 /**
- * Created by mjiang on 12/05/16 -- JM
+ * Created by mjiang on 12/05/16 -- JM Testing
  */
 public class StreamHttp {
 
