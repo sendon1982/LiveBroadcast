@@ -1,0 +1,6 @@
+/.idea
+/target
+*.impl
+*.ipr
+*.iws
+*.mp4
