@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9f2e784-c7f6-4de6-bcb6-3bcc69af5219" name="Default" comment="" />
+    <list default="true" id="f9f2e784-c7f6-4de6-bcb6-3bcc69af5219" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/client_secrets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/learninline/core/StreamHttp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/sample-video.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/watermark.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/youtube.properties" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Broadcast.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -99,6 +107,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -494,12 +505,12 @@
       <created>1463010551889</created>
       <option name="number" value="Default" />
       <updated>1463010551889</updated>
-      <workItem from="1463010553087" duration="6026000" />
+      <workItem from="1463010553087" duration="6122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6026000" />
+    <option name="totallyTimeSpent" value="6122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="0" width="1918" height="1165" extended-state="0" />
