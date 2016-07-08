@@ -1,0 +1,46 @@
+<GetProductionsEx3Result>
+    <Production diffgr:id="Production1" msdata:rowOrder="0" diffgr:hasChanges="modified">
+        <prod_season_no>141</prod_season_no>
+        <prod_desc>Season</prod_desc>
+        <season_no>7</season_no>
+        <season_desc>08 Subscription</season_desc>
+        <language>German</language>
+        <composer>Wolfgang Amadeus Mozart</composer>
+        <author>David Auburn</author>
+        <first_dt>2007-09-12T20:00:00-04:00</first_dt>
+        <last_dt>2009-08-21T20:00:00-04:00</last_dt>
+        <synop>
+            Proof focuses on Catherine, a young woman who has spent years caring for her unstable father, Robert.
+            Robert was a brilliant mathematician in his younger years, but later became unable to function without the help of his daughter.
+            His death brings Hal, a former student of Robert, into Catherine's life. She ends up falling in love with him,
+            but in the process gravely misses her deceased father while resenting the great sacrifices she made for him.
+            Catherine seems to have inherited her father's brilliance as well as his instability.
+        </synop>
+        <premiere_id>2</premiere_id>
+        <premiere_desc>New Production Premiere</premiere_desc>
+        <perf_no>142</perf_no>
+        <on_sale_ind>N</on_sale_ind>
+    </Production>
+    <Credit diffgr:id="Credit1" msdata:rowOrder="0">
+        <credit_type>Production</credit_type>
+        <role_no>12</role_no>
+        <role_desc>Director</role_desc>
+        <full_name>Madden, John </full_name>
+        <artist_no>10</artist_no>
+        <rank>0</rank>
+        <prod_season_no>141</prod_season_no>
+    </Credit>
+    <Keyword diffgr:id="Keyword1" msdata:rowOrder="0">
+        <category>Interest Keywords</category>
+        <keyword>Drama</keyword>
+        <prod_season_no>141</prod_season_no>
+    </Keyword>
+    <WebContent diffgr:id="WebContent1" msdata:rowOrder="0">
+        <orig_inv_no>141</orig_inv_no>
+        <inv_no>141</inv_no>
+        <inv_type>S</inv_type>
+        <content_type>3</content_type>
+        <content_type_desc>Test</content_type_desc>
+        <content_value>Sample content</content_value>
+    </WebContent>
+</GetProductionsEx3Result>

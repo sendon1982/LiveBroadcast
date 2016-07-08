@@ -1,0 +1,107 @@
+<GetPerformanceDetailExResult xmlns="">
+    <Performance diffgr:id="Performance1" msdata:rowOrder="0">
+        <inv_no>151</inv_no>
+        <description>Swan Lake</description>
+        <type>R</type>
+        <text1>Ticket text line 1</text1>
+        <text2>Ticket text line 2</text2>
+        <text3>Ticket text line 3</text3>
+        <text4>Ticket text line 4</text4>
+        <perf_dt>2007-02-26T14:30:00.0000000-08:00</perf_dt>
+        <composerfn>Peter</composerfn>
+        <composermn>Ilyich</composermn>
+        <composerln>Tchaikovsky</composerln>
+        <facility_desc>Garage Theater</facility_desc>
+        <on_sale_ind>Y</on_sale_ind>
+        <performance_type>Dance</performance_type>
+        <perf_type_id>2</perf_type_id>
+        <seat_ind>Y</seat_ind>
+        <print_ind>Y</print_ind>
+        <zmap_no>2</zmap_no>
+        <facility_no>2</facility_no>
+        <prod_season_no>108</prod_season_no>
+        <season_no>3</season_no>
+        <season_desc>2002 Dance</season_desc>
+        <start_dt>2003-11-18T14:36:33.0000000-08:00</start_dt>
+        <end_dt>2007-12-07T18:30:00.0000000-08:00</end_dt>
+        <perf_status>1</perf_status>
+        <perf_status_desc>On Sale</perf_status_desc>
+        <time_slot>1</time_slot>
+        <time_slot_desc>Evening</time_slot_desc>
+        <ga_ind>N</ga_ind>
+    </Performance>
+    <Price diffgr:id="Price1" msdata:rowOrder="0">
+        <perf_no>151</perf_no>
+        <pkg_no>0</pkg_no>
+        <zone_no>16</zone_no>
+        <price_type>1</price_type>
+        <price>425.0000</price>
+        <base_price>425.0000</base_price>
+        <description>Main Floor Prime</description>
+        <available>Y</available>
+        <avail_count>888</avail_count>
+        <zone_group>1</zone_group>
+        <zone_group_desc>Main Floor</zone_group_desc>
+    </Price>
+    <Price diffgr:id="Price2" msdata:rowOrder="1">
+        <perf_no>151</perf_no>
+        <pkg_no>0</pkg_no>
+        <zone_no>17</zone_no>
+        <price_type>1</price_type>
+        <price>250.0000</price>
+        <base_price>250.0000</base_price>
+        <description>Main Floor Side</description>
+        <available>Y</available>
+        <avail_count>102</avail_count>
+        <zone_group>1</zone_group>
+        <zone_group_desc>Main Floor</zone_group_desc>
+    </Price>
+    <Credit diffgr:id="Credit1" msdata:rowOrder="0">
+          <credit_type>Production</credit_type>
+          <role_no>26</role_no>
+          <role_desc>Production</role_desc>
+          <full_name>Huddle, Dave</full_name>
+          <artist_no>12</artist_no>
+          <rank>1</rank>
+         </Credit>
+    <PriceType diffgr:id="PriceType1" msdata:rowOrder="0">
+        <price_type>1</price_type>
+        <description>Standard</description>
+        <short_desc>Stan</short_desc>
+        <category>Standard</category>
+        <def_price_type>Y</def_price_type>
+        <promo>N</promo>
+    </PriceType>
+    <AllPrice diffgr:id="AllPrice2" msdata:rowOrder="1">
+        <zone_no>17</zone_no>
+        <price_type>1</price_type>
+        <price>250.0000</price>
+        <base_price>250.0000</base_price>
+        <description>Main Floor Side</description>
+        <available>Y</available>
+        <avail_count>102</avail_count>
+        <def_price_type>1</def_price_type>
+        <price_type_desc>Standard</price_type_desc>
+        <rank>2</rank>
+    </AllPrice>
+    <AllPrice diffgr:id="AllPrice3" msdata:rowOrder="2">
+        <zone_no>18</zone_no>
+        <price_type>1</price_type>
+        <price>225.0000</price>
+        <base_price>225.0000</base_price>
+        <description>Main Floor Rear</description>
+        <available>Y</available>
+        <avail_count>211</avail_count>
+        <def_price_type>1</def_price_type>
+        <price_type_desc>Standard</price_type_desc>
+        <rank>3</rank>
+    </AllPrice>
+    <WebContent diffgr:id="WebContent1" msdata:rowOrder="1">
+        <orig_inv_no>151</orig_inv_no>
+        <inv_no>151</inv_no>
+        <inv_type>S</inv_type>
+        <content_type>5</content_type>
+        <content_type_desc> Prod_Short_Desc</content_type_desc>
+        <content_value>Short production summary.</content_value>
+    </WebContent>
+</GetPerformanceDetailExResult>

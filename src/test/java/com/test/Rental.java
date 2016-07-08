@@ -1,8 +1,5 @@
 package com.test;
 
-import com.test.strategy.MovieAmountStrategy;
-import com.test.strategy.MovieAmountStrategyFactory;
-
 /**
  * Created by mjiang on 9/06/16.
  */
@@ -26,8 +23,7 @@ public class Rental {
 
 
     public double calculateMovieAmount() {
-        MovieAmountStrategy movieAmountStrategy = MovieAmountStrategyFactory.create(this);
-        return movieAmountStrategy.calculateAmount(this);
+       return movie.getTotalCharge(daysRented);
     }
 
     public int calculateFrequentPoints() {

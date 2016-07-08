@@ -8,8 +8,8 @@ import com.test.Rental;
 public class NewReleaseMoiveAmountStrategy implements MovieAmountStrategy {
 
     @Override
-    public double calculateAmount(Rental rental) {
-        double amount = rental.getDaysRented() * 3;
+    public double calculateAmount(int daysRented) {
+        double amount = daysRented * 3;
         return amount;
     }
 }

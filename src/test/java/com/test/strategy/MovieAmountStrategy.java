@@ -7,5 +7,5 @@ import com.test.Rental;
  */
 public interface MovieAmountStrategy {
 
-    public double calculateAmount(Rental rental);
+    public double calculateAmount(int daysRented);
 }
